@@ -5,7 +5,7 @@ public class Solution {
         int sum = 0, k = 1;
         while (n != 0) {
             k *= n % 10;
-            sum += k % 10;
+            sum += n % 10;
             n = n / 10;
         }
         return k-sum;
