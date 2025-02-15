@@ -1,4 +1,4 @@
-package easy.math;
+package easy.math.SubtractProductAndSum;
 
 public class Solution {
     public int subtractProductAndSum(int n) {
