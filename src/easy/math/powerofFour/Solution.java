@@ -1,6 +1,8 @@
 package easy.math.powerofFour;
 
 public class Solution {
+    public boolean maximumProduct;
+
     public boolean isPowerOfFour(int n) {
         if(n<=0){
             return false;
