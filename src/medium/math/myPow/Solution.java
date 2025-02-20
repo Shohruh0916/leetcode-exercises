@@ -1,4 +1,4 @@
-package medium.mypow;
+package medium.math.myPow;
 
 public class Solution {
     public double myPow(double x, int n) {

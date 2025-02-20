@@ -1,4 +1,4 @@
-package medium.mypow;
+package medium.math.myPow;
 
 public class Main {
     public static void main(String[] args) {
