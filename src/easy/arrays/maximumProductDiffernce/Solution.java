@@ -1,4 +1,4 @@
-package easy.string.maximumProductDiffernce;
+package easy.arrays.maximumProductDiffernce;
 
 public class Solution {
     public int maxProductDifference(int[] nums) {
