@@ -8,7 +8,6 @@ public class Solution {
             s1--;
 
         }
-
         int s2=area/s1;
         result[0]=s2;
         result[1]=s1;
